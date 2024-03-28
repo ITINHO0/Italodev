@@ -2,10 +2,6 @@
 
 ### Olá! Eu sou o Italo Ferreira 🖐🏼
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/italloferreiraa__)
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-ferreira-74a701278/)
-
 ![italoferreiraa__ GitHub stats](https://github-readme-stats.vercel.app/api?username=ITINHO0&show_icons=true&theme=dracula)
 
 ## Tecnologia que uso no meu dia
@@ -19,3 +15,10 @@
 <div><br>
 
 Apaixonado por tecnologia, e estou  sempre em busca de conhecimentos e novos desafios.
+
+### Caso queira entrar em contato!
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/italloferreiraa__)
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-ferreira-74a701278/)
+
